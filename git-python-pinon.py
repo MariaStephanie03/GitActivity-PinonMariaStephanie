@@ -1,3 +1,6 @@
 print("Maria Stephanie R. Pinon")
 print("Kaganhao Santa Cruz, Marinduque")
 print("March 03, 2001")
+print("Marinduque State College, Boac Campus")
+print("BS Information Technology")
+print("Second Year - Section C")
